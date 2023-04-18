@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedCollection", "KeyedCollection\KeyedCollection.csproj", "{634B2D75-F930-4F49-9091-4029B213C269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedCollectionTest", "KeyedCollectionTest\KeyedCollectionTest.csproj", "{76C154D4-8795-41B4-B831-C48506A8CCCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634B2D75-F930-4F49-9091-4029B213C269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634B2D75-F930-4F49-9091-4029B213C269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634B2D75-F930-4F49-9091-4029B213C269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634B2D75-F930-4F49-9091-4029B213C269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C154D4-8795-41B4-B831-C48506A8CCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C154D4-8795-41B4-B831-C48506A8CCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C154D4-8795-41B4-B831-C48506A8CCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C154D4-8795-41B4-B831-C48506A8CCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC2EDCF-52B3-49B0-A1E3-C80E6F0D7B29}
+	EndGlobalSection
+EndGlobal
