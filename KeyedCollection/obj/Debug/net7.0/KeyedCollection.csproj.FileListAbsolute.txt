@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\bin\Debug\net7.0\KeyedCollection.exe
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\bin\Debug\net7.0\KeyedCollection.deps.json
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\bin\Debug\net7.0\KeyedCollection.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\bin\Debug\net7.0\KeyedCollection.dll
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\bin\Debug\net7.0\KeyedCollection.pdb
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.dll
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\refint\KeyedCollection.dll
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.pdb
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\KeyedCollection.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Programacion III\KeyedCollection\KeyedCollection\obj\Debug\net7.0\ref\KeyedCollection.dll
